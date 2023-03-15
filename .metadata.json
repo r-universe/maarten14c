@@ -1,0 +1,22 @@
+[
+  {
+    "package": "clam",
+    "oncran": true
+  },
+  {
+    "package": "coffee",
+    "oncran": true
+  },
+  {
+    "package": "rbacon",
+    "oncran": true
+  },
+  {
+    "package": "rintcal",
+    "oncran": true
+  },
+  {
+    "package": "rplum",
+    "oncran": true
+  }
+]
