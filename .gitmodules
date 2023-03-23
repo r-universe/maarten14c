@@ -13,6 +13,11 @@
 	url = https://github.com/maarten14c/coffee
 	shallow = true
 	registered = true
+[submodule "IntCal"]
+	path = IntCal
+	url = https://github.com/cran/IntCal
+	shallow = true
+	registered = true
 [submodule "rbacon"]
 	path = rbacon
 	url = https://github.com/maarten14c/rbacon
