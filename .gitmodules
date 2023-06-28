@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "clam"]
 	path = clam
 	url = https://github.com/maarten14c/clam
-	shallow = true
-	registered = true
 [submodule "coffee"]
 	path = coffee
 	url = https://github.com/maarten14c/coffee
-	shallow = true
-	registered = true
 [submodule "IntCal"]
 	path = IntCal
 	url = https://github.com/cran/IntCal
-	shallow = true
-	registered = true
 [submodule "rbacon"]
 	path = rbacon
 	url = https://github.com/maarten14c/rbacon
-	shallow = true
-	registered = true
 [submodule "rintcal"]
 	path = rintcal
 	url = https://github.com/maarten14c/rintcal
-	shallow = true
-	registered = true
 [submodule "rplum"]
 	path = rplum
 	url = https://github.com/maarten14c/rplum
-	shallow = true
-	registered = true
