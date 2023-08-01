@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "IntCal"]
+	path = IntCal
+	url = https://github.com/cran/IntCal
 [submodule "clam"]
 	path = clam
 	url = https://github.com/maarten14c/clam
 [submodule "coffee"]
 	path = coffee
 	url = https://github.com/maarten14c/coffee
-[submodule "IntCal"]
-	path = IntCal
-	url = https://github.com/cran/IntCal
 [submodule "rbacon"]
 	path = rbacon
 	url = https://github.com/maarten14c/rbacon
