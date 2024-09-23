@@ -16,7 +16,7 @@
 	url = https://github.com/maarten14c/rbacon
 [submodule "rice"]
 	path = rice
-	url = https://github.com/cran/rice
+	url = https://github.com/maarten14c/rice
 [submodule "rintcal"]
 	path = rintcal
 	url = https://github.com/maarten14c/rintcal
