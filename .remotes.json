@@ -1,0 +1,14 @@
+[
+  {
+    "package": "p3k14c",
+    "url": "https://github.com/people3k/p3k14c",
+    "via": ["rice"],
+    "from": "rice"
+  },
+  {
+    "package": "rnaturalearthhires",
+    "url": "https://github.com/ropensci/rnaturalearthhires",
+    "via": ["rice", "p3k14c"],
+    "from": "rice"
+  }
+]
