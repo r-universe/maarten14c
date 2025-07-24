@@ -11,10 +11,6 @@
 [submodule "coffee"]
 	path = coffee
 	url = https://github.com/maarten14c/coffee
-[submodule "p3k14c"]
-	path = p3k14c
-	url = https://github.com/people3k/p3k14c
-	registered = false
 [submodule "rbacon"]
 	path = rbacon
 	url = https://github.com/maarten14c/rbacon
@@ -24,10 +20,6 @@
 [submodule "rintcal"]
 	path = rintcal
 	url = https://github.com/maarten14c/rintcal
-[submodule "rnaturalearthhires"]
-	path = rnaturalearthhires
-	url = https://github.com/ropensci/rnaturalearthhires
-	registered = false
 [submodule "rplum"]
 	path = rplum
 	url = https://github.com/maarten14c/rplum
